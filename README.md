@@ -1,2 +1,2 @@
 # teste
-olá
+Minicurso de GitHub pelo Dr. Maurício Vancine
